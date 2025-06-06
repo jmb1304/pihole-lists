@@ -1,0 +1,26 @@
+# Twitch
+# from https://www.netify.ai/resources/applications/twitch & Browser Networktraffic
+||twitch.tv^
+||www.twitch.tv^
+||ttvnw.net^
+||live-video.net^
+||jtvnw.net^
+||twitchcdn.net^
+||ext-twitch.tv^
+||twitch-shadow.net^
+||twitch.a2z.com^
+||twitchcdn-shadow.net^
+||twitchsvc-staging.tech^
+||twitchsvc.net^
+||assets.twitch.tv^
+||k.twitchcdn.net^
+||hermes.twitch.tv^
+||irc-ws.chat.twitch.tv^
+||gql.twitch.tv^
+||static-cdn.jtvnw.net^
+||pubsub-edge.twitch.tv^
+||usher.ttvnw.net^
+||global.poe.live-video.net^
+||supervisor.ext-twitch.tv^
+||extensions-discovery-images.twitch.tv^
+||panels.twitch.tv^
